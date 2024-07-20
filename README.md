@@ -14,7 +14,7 @@ Normally around energy and physics as that's my background. My goal is to apply 
 * Develop useful models / insights in sustainable energy development<br><br><br>
 
 ## ⚙️ Progress:<br><br>
-* Ground work for model / project ideas set, potential to explore current projects in depth or inspire others<br>
-* ML / data science foundations establish to build on and incorporate cloud computing and pretrained models for impact<br><br><br>
+* Ground work for model / project ideas set, with potential to explore current projects in depth or inspire others<br>
+* ML / data science foundations established to build on and incorporate cloud computing and pretrained models for impact<br><br><br>
 
 I do hope my work is interesting, as I normally only like to publish something worth reading.
