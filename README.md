@@ -1,8 +1,9 @@
-## Hi there 👋<br><br>
+# Hi there 👋<br><br>
+## About Me:
 Data analyst with interests in:<br>
 * Machine learning<br>
 * Data science<br>
-* Sustainable energy development<br>
+* Sustainable energy development<br><br>
 
 ## ⚡ Projects:<br><br>
 Normally around energy and physics as that's my background. My goal is to apply ML to each field, as I find great interest and value from putting data to work.<br><br>
