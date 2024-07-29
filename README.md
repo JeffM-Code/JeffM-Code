@@ -1,6 +1,6 @@
 # Hi there 👋<br><br>
 ## About Me:
-Data analyst with interests in:<br>
+Energy specialist & data analyst passionate about:<br>
 * Machine learning<br>
 * Data science<br>
 * Sustainable energy development<br><br>
