@@ -15,7 +15,7 @@ Normally around energy and physics as that's my background. My goal is to apply 
 
 ## ⚙️ Progress:<br><br>
 * Core work for model / project ideas determined, with potential to explore current projects in depth or inspire others<br>
-* ML / data science foundations established to build on<br><br><br>
-* AWS / Azure cloud computing to be incorporated for more impactful model development
+* ML / data science foundations established to build on<br>
+* AWS / Azure cloud computing to be incorporated for more impactful model development<br><br><br>
 
 I do hope my work is interesting, as I normally only like to publish something worth reading.
