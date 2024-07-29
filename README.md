@@ -1,9 +1,9 @@
 # Hi there 👋<br><br>
 ## About Me:
 Energy specialist & data analyst passionate about:<br>
-* Machine learning<br>
-* Data science<br>
-* Sustainable energy development<br><br>
+* Machine Learning<br>
+* Data Science<br>
+* Sustainable Energy Development<br><br>
 
 ## ⚡ Projects:<br><br>
 Normally around energy and physics as that's my background. My goal is to apply ML to each field, as I find great interest and value from putting data to work.<br><br>
