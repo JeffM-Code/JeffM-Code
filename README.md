@@ -11,7 +11,7 @@ Normally around energy and physics as that's my background. My goal is to apply 
 
 ## ✨ Goals:<br><br>
 * Apply ML to data to unlock strong insights or intrinsic value<br>
-* Develop useful models for in sustainable energy development<br><br><br>
+* Develop useful models for use in sustainable energy development<br><br><br>
 
 ## ⚙️ Progress:<br><br>
 * Core work for model / project ideas determined, with potential to explore current projects in depth or inspire others<br>
