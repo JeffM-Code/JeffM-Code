@@ -51,36 +51,8 @@ Imbalance Pricing Forecast Model
 
 <br>
 
-### [Full list of projects](https://github.com/JeffM-Code/PortfolioWork)
+### [Full list of projects](https://github.com/JeffM-Code/PortfolioWork)<br><br><br>
 
-<br><br><br>
+I do hope my work is interesting, as I normally only like to publish something worth reading.<br><br><br>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="62" height="62" style="margin: 0px 15px 0px 0px;"> Goals & Progress<br><br>
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>✨ Goals</b></td>
-      <td><b>Progress</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-       <td>Apply ML to data to unlock strong insights or intrinsic value</td>
-       <td><ul><li>Core work for model / project ideas determined, with potential to explore current projects in depth or inspire others</li><br><br></td>
-       </td>
-    </tr>
-    <tr>
-    <td>Develop useful models for use in sustainable energy development</td>
-    <td><ul>
-  <li>ML / data science foundations established to build on</li>
-  <li>AWS / Azure cloud computing to be incorporated for more impactful model development</li><br><br>
-</ul></td>
-    </td>
-    </tr>
-      </tbody>
-</table>
-
-<br><br>
-
-I do hope my work is interesting, as I normally only like to publish something worth reading.
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="82" height="82">
