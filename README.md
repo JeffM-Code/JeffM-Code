@@ -1,7 +1,21 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image and Text Spacing</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+        .container img {
+            margin-right: 20px;
+        }
+    </style>
+</head>
+
 # Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="42" height="42" style="margin: 0px 15px 0px 0px;"><br><br>
 
-## About Me:
-
+## About Me<br><br>
 Energy specialist & data analyst passionate about machine learning, data science, sustainable energy development.<br><br><br>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="42" height="42" style="margin: 0px 15px 0px 0px;"> Projects<br><br>
@@ -49,10 +63,15 @@ Imbalance Pricing Forecast Model
       </tbody>
 </table>
 
-<br>
+<br><br>
 
 
-### [Full list of projects](https://github.com/JeffM-Code/PortfolioWork)<br><br>
+<div class="container">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="42" height="39">
+    <a href="https://github.com/JeffM-Code/PortfolioWork"><b>Full list of projects<b></a>
+</div>
+
+<br><br><br>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="62" height="62" style="margin: 0px 15px 0px 0px;"> Goals & Progress<br><br>
 <table>
