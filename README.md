@@ -51,14 +51,12 @@ Imbalance Pricing Forecast Model
 
 <br>
 
-#### <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="42" height="39" style="margin: 0px 15px 0px 0px;">
-</picture> <a href="https://github.com/JeffM-Code/PortfolioWork" style="font-size: 22px;"><b>Full list of projects</b></a>
+
+#### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="42" height="39" style="margin: 0px 15px 0px 0px;"> [Full list of projects](https://github.com/JeffM-Code/PortfolioWork)
 
 <br><br>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="52" height="52" style="margin: 0px 15px 0px 0px;"> Goals & Progress<br><br>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="62" height="62" style="margin: 0px 15px 0px 0px;"> Goals & Progress<br><br>
 <table>
   <thead align="center">
     <tr border: none;>
