@@ -33,7 +33,7 @@ Normally around energy and physics as that's my background.<br><br><br>
         <td><a href="https://github.com/JeffM-Code/PortfolioWork/tree/main/ML/ImbalancePricing">Imbalance pricing insights</td>
     <td>Imbalance pricing forecasting for optimal trading strategies<br><br></td>
     </td>
-    <td><a href="https://github.com/JeffM-Code/PortfolioWork/tree/main/ML/ImbalancePricing">
+    <td><a href="https://github.com/JeffM-Code/ImbalancePricingForecastModel">
 Imbalance Pricing Forecast Model
 </a></td>
     </tr>
