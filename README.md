@@ -52,7 +52,7 @@ Imbalance Pricing Forecast Model
 <br>
 
 
-#### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="42" height="39" style="margin: 0px 15px 0px 0px;"> [Full list of projects](https://github.com/JeffM-Code/PortfolioWork)
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="42" height="39" style="margin: 0px 20px 0px 0px;"> [Full list of projects](https://github.com/JeffM-Code/PortfolioWork)
 
 <br><br>
 
