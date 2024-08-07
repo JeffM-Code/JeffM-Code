@@ -30,7 +30,7 @@ Normally around energy and physics as that's my background.<br><br><br>
     </td>
     <td><a href="https://github.com/JeffM-Code/TurbinePowerConsumptionSimulationModel">Turbine Power Consumption Simulation Model</a></td>
     </tr>
-        <td><a href="https://github.com/JeffM-Code/PortfolioWork/tree/main/ML/GasTurbineConsumption">Imbalance pricing insights</td>
+        <td><a href="https://github.com/JeffM-Code/PortfolioWork/tree/main/ML/ImbalancePricing">Imbalance pricing insights</td>
     <td>Imbalance pricing forecasting for optimal trading strategies<br><br></td>
     </td>
     <td><a href="https://github.com/JeffM-Code/PortfolioWork/tree/main/ML/ImbalancePricing">
