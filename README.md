@@ -51,11 +51,11 @@ Normally around energy or physics as that's my background.<br><br><br>
 
 <br>
 
-### [Full list of projects](https://github.com/JeffM-Code/PortfolioWork)<br><br>
+### [Full list of projects](https://github.com/JeffM-Code/PortfolioWork)<br>
 ### [Model development strategies](https://github.com/JeffM-Code/PortfolioWork/blob/main/ML/DevelopmentDetails/README.md)<br><br><br>
 
 I do hope my work is interesting, as I normally only like to publish something worth reading.<br><br><br>
 
-<div style="text-align: center;">
+<div align="center">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="82" height="82" />
 </div>
