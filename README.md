@@ -56,4 +56,4 @@ Normally around energy or physics as that's my background.<br><br><br>
 
 I do hope my work is interesting, as I normally only like to publish something worth reading.<br><br><br>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" align="middle" alt="☄" width="82" height="82">
+<img align="centre" alt="☄" width="82" height="82" src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif">
