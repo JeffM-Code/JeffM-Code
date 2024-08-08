@@ -51,7 +51,8 @@ Imbalance Pricing Forecast Model
 
 <br>
 
-### [Full list of projects](https://github.com/JeffM-Code/PortfolioWork)<br><br><br>
+### [Full list of projects](https://github.com/JeffM-Code/PortfolioWork)<br><br>
+### [Development strategies](https://github.com/JeffM-Code/PortfolioWork/blob/main/ML/DevelopmentDetails/README.md)<br><br><br>
 
 I do hope my work is interesting, as I normally only like to publish something worth reading.<br><br><br>
 
