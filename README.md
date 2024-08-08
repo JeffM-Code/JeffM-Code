@@ -6,14 +6,14 @@ Energy specialist passionate about machine learning, data science and sustainabl
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="42" height="42" style="margin: 0px 15px 0px 0px;"> Projects<br><br>
 
-Normally around energy and physics as that's my background.<br><br><br>
+Normally around energy and physics as that's my background. <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.gif" alt="🌊" width="32" height="32"><br><br><br>
 
 <table>
   <thead align="center">
     <tr border: none;>
       <td><b>Project</b></td>
       <td><b>Description</b></td>
-    <td><b>Interactive Application</b></td>
+    <td><b>✨ Model App</b></td>
     </tr>
   </thead>
   <tbody>
