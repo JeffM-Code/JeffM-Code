@@ -8,7 +8,7 @@ Energy specialist passionate about machine learning & sustainable energy develop
 
 Normally around energy or physics as that's my background.<br><br><br>
 
-<table>
+<table border="1" style="border-color: lightblue;">
   <thead align="center">
     <tr border: none;>
       <td><b>Project</b></td>
