@@ -2,11 +2,11 @@
 
 ## About Me
 
-Energy specialist passionate about machine learning, data science and sustainable energy development.<br><br><br>
+Energy specialist passionate about machine learning, data science and sustainable energy development 🔋.<br><br><br>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="42" height="42" style="margin: 0px 15px 0px 0px;"> Projects<br><br>
 
-Normally around energy and physics as that's my background. <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50b/512.gif" alt="🔋" width="32" height="32"><br><br><br>
+Normally around energy and physics as that's my background.<br><br><br>
 
 <table>
   <thead align="center">
