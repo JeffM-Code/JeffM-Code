@@ -94,9 +94,6 @@ Solving machine learning problems from a [machine learning book](https://mml-boo
   </tbody>
 </table>
 
-<br><br>
-
-
 <br><br><br>
 
 I do hope my work is interesting, as I normally only like to publish something worth reading.<br><br><br>
