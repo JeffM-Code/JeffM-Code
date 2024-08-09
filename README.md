@@ -53,7 +53,7 @@ Normally around energy or physics as that's my background.<br><br>
 
 <br><br><br>
 
-These projects explore machine learning through cloud technologies, through things such as AWS skill builder with interactive learning.<br><br>
+These projects explore machine learning with cloud technologies, through things such as AWS skill builder with interactive learning.<br><br>
 
 <table>
   <thead align="center">
