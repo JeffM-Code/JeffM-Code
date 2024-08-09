@@ -51,8 +51,8 @@ Normally around energy or physics as that's my background.<br><br><br>
 
 <br>
 
-### [Full list of projects](https://github.com/JeffM-Code/PortfolioWork)<br>
-### [Model development strategies](https://github.com/JeffM-Code/PortfolioWork/blob/main/ML/DevelopmentDetails/README.md)<br><br><br>
+### [Full project list](https://github.com/JeffM-Code/PortfolioWork)<br>
+### [Model development strategies*](https://github.com/JeffM-Code/PortfolioWork/blob/main/ML/DevelopmentDetails/README.md)<br><br><br>
 
 I do hope my work is interesting, as I normally only like to publish something worth reading.<br><br><br>
 
