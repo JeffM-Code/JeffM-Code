@@ -6,7 +6,10 @@ Energy specialist passionate about machine learning & sustainable energy develop
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="42" height="42" style="margin: 0px 15px 0px 0px;"> Projects<br><br>
 
-Normally around energy or physics as that's my background.<br><br><br>
+Normally around energy or physics as that's my background.<br><br>
+
+### [Full project list](https://github.com/JeffM-Code/PortfolioWork)<br>
+### [Model development strategies](https://github.com/JeffM-Code/PortfolioWork/blob/main/ML/DevelopmentDetails/README.md)*<br><br>
 
 <table>
   <thead align="center">
@@ -49,10 +52,7 @@ Normally around energy or physics as that's my background.<br><br><br>
   </tbody>
 </table>
 
-<br>
-
-### [Full project list](https://github.com/JeffM-Code/PortfolioWork)<br>
-### [Model development strategies](https://github.com/JeffM-Code/PortfolioWork/blob/main/ML/DevelopmentDetails/README.md)*<br><br><br>
+<br><br><br>
 
 I do hope my work is interesting, as I normally only like to publish something worth reading.<br><br><br>
 
