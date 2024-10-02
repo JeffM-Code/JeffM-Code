@@ -73,8 +73,6 @@ These projects explore machine learning with cloud technologies, through things 
 
 <br><br><br>
 
-I do hope my work is interesting, as I normally only like to publish something worth reading.<br><br><br>
-
 <div align="center">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="82" height="82"/>
 </div>
