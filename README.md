@@ -53,26 +53,6 @@ Normally around energy or physics as that's my background.<br><br>
 
 <br><br><br>
 
-These projects explore machine learning with cloud technologies, through things such as AWS skill builder with interactive learning.<br><br>
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Project</b></td>
-      <td><b>Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-       <td><a href="https://github.com/JeffM-Code/PortfolioWork/tree/main/ML/GenerativeModel">Retrieval Augmented Generation<a></td>
-       <td>Basic application answering questions based on retrieval augmented generation (RAG) system using LangChain, specifically tailored for question answering based on custom dataset<br><br></td>
-       </td>
-    </tr>
-  </tbody>
-</table>
-
-<br><br><br>
-
 <div align="center">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="82" height="82"/>
 </div>
